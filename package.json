@@ -1,0 +1,30 @@
+{
+  "name": "ezdevops-template-svnmvndocker",
+  "version": "1.0.0",
+  "description": "a template of using ezdevops-core, ezdevops-cmd-svn, ezdevops-cmd-mvn, ezdevops-cmd-docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonforce2010/ezdevops-template-svnmvndocker.git"
+  },
+  "keywords": [
+    "ezdevops-core",
+    "ezdevops-cmd-svn",
+    "ezdevops-cmd-mvn",
+    "ezdevops-cmd-docker",
+    "ezdevops",
+    "devops",
+    "node",
+    "nodejs",
+    "js"
+  ],
+  "author": "Michael Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonforce2010/ezdevops-template-svnmvndocker/issues"
+  },
+  "homepage": "https://github.com/dragonforce2010/ezdevops-template-svnmvndocker#readme"
+}
